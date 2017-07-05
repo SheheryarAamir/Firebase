@@ -2,8 +2,8 @@
 NodeJS + Express + Firebase + AngularJS
 
 
-# Command Prompt
-npm start
+# Start
+Command Prompt: npm start
 
-Browser
+# Browser
 http://localhost:3000
