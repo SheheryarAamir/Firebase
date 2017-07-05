@@ -2,7 +2,7 @@
 NodeJS + Express + Firebase + AngularJS
 
 
-Command Prompt
+# Command Prompt
 npm start
 
 Browser
