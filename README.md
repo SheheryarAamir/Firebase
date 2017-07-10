@@ -19,4 +19,5 @@ Firebase Realtime Database Rule should be as below
     ".write": "true"
   }
 }
+
 Otherwise you will get permission denied message on the console
